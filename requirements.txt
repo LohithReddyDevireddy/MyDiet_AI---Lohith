@@ -4,3 +4,9 @@ scikit-learn
 joblib
 pdfplumber
 reportlab
+plotly
+xgboost
+transformers
+torch
+openai
+reportlab
