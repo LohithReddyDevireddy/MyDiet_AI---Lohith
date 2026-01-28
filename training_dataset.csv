@@ -1,0 +1,501 @@
+Glucose,BMI,Age,Condition,Diet_Plan
+172,15.898556844918552,29,Diabetes,Diabetic Friendly (Low Sugar)
+249,26.639950453311506,59,Diabetes,Diabetic Friendly (Low Sugar)
+162,28.566115867689415,57,Diabetes,Diabetic Friendly (Low Sugar)
+84,22.163531303207108,25,Healthy,Balanced Diet
+176,29.770831514225268,27,Diabetes,Diabetic Friendly (Low Sugar)
+141,15.762506248476235,42,Diabetes,Diabetic Friendly (Low Sugar)
+258,15.933704718730361,66,Diabetes,Diabetic Friendly (Low Sugar)
+90,35.56501401649146,45,Obesity,Low Carb / Keto
+172,24.00476603528157,65,Diabetes,Diabetic Friendly (Low Sugar)
+191,18.17651281629712,62,Diabetes,Diabetic Friendly (Low Sugar)
+280,28.05608150137011,31,Diabetes,Diabetic Friendly (Low Sugar)
+284,34.24983882746527,45,Diabetes,Diabetic Friendly (Low Sugar)
+144,20.395525687421078,32,Diabetes,Diabetic Friendly (Low Sugar)
+272,30.57226189547501,59,Diabetes,Diabetic Friendly (Low Sugar)
+157,17.1336866248442,37,Diabetes,Diabetic Friendly (Low Sugar)
+186,16.292043029215193,44,Diabetes,Diabetic Friendly (Low Sugar)
+169,28.283865789203702,52,Diabetes,Diabetic Friendly (Low Sugar)
+173,28.515878040252662,66,Diabetes,Diabetic Friendly (Low Sugar)
+221,30.935747537455164,59,Diabetes,Diabetic Friendly (Low Sugar)
+200,33.15228334306654,79,Diabetes,Diabetic Friendly (Low Sugar)
+219,39.396301986563365,62,Diabetes,Diabetic Friendly (Low Sugar)
+122,27.907508707529885,31,Pre-Diabetic,Mediterranean Diet
+71,23.073911823531148,63,Healthy,Balanced Diet
+157,34.87965486921759,55,Diabetes,Diabetic Friendly (Low Sugar)
+227,21.770806281551856,67,Diabetes,Diabetic Friendly (Low Sugar)
+107,25.9742855176409,23,Pre-Diabetic,Mediterranean Diet
+199,16.961409533556647,24,Diabetes,Diabetic Friendly (Low Sugar)
+261,15.633768585386438,75,Diabetes,Diabetic Friendly (Low Sugar)
+257,39.06621036694813,56,Diabetes,Diabetic Friendly (Low Sugar)
+90,35.89950301280514,27,Obesity,Low Carb / Keto
+230,32.39935515234245,61,Diabetes,Diabetic Friendly (Low Sugar)
+273,25.223823610356746,68,Diabetes,Diabetic Friendly (Low Sugar)
+127,19.332358001771144,47,Diabetes,Diabetic Friendly (Low Sugar)
+91,18.91092606677715,50,Healthy,Balanced Diet
+158,21.256072454114882,77,Diabetes,Diabetic Friendly (Low Sugar)
+118,28.730666617653014,28,Pre-Diabetic,Mediterranean Diet
+288,32.86489806750156,73,Diabetes,Diabetic Friendly (Low Sugar)
+128,31.504934417943282,70,Diabetes,Diabetic Friendly (Low Sugar)
+239,21.99834742364857,48,Diabetes,Diabetic Friendly (Low Sugar)
+289,38.87163201657985,33,Diabetes,Diabetic Friendly (Low Sugar)
+257,33.44742291739421,59,Diabetes,Diabetic Friendly (Low Sugar)
+277,28.858851312785017,60,Diabetes,Diabetic Friendly (Low Sugar)
+84,30.293018655858805,41,Obesity,Low Carb / Keto
+259,25.490001560694747,30,Diabetes,Diabetic Friendly (Low Sugar)
+259,21.193274737528938,42,Diabetes,Diabetic Friendly (Low Sugar)
+244,23.89931696628154,20,Diabetes,Diabetic Friendly (Low Sugar)
+259,33.94615276160923,65,Diabetes,Diabetic Friendly (Low Sugar)
+120,15.359837215743896,56,Healthy,Balanced Diet
+177,17.901816012672906,40,Diabetes,Diabetic Friendly (Low Sugar)
+124,16.15006605054382,45,Healthy,Balanced Diet
+133,16.018220057974254,65,Diabetes,Diabetic Friendly (Low Sugar)
+200,36.38651460027518,55,Diabetes,Diabetic Friendly (Low Sugar)
+298,32.591446484500594,73,Diabetes,Diabetic Friendly (Low Sugar)
+120,26.85434572718313,42,Pre-Diabetic,Mediterranean Diet
+204,17.445854016275035,76,Diabetes,Diabetic Friendly (Low Sugar)
+90,27.29039687792081,20,Healthy,Balanced Diet
+142,26.836794269514144,73,Diabetes,Diabetic Friendly (Low Sugar)
+236,19.33004674775038,74,Diabetes,Diabetic Friendly (Low Sugar)
+87,25.846291230949326,70,Healthy,Balanced Diet
+201,24.962618359934336,59,Diabetes,Diabetic Friendly (Low Sugar)
+158,30.39625245130541,34,Diabetes,Diabetic Friendly (Low Sugar)
+129,30.877341271691094,40,Diabetes,Diabetic Friendly (Low Sugar)
+83,16.132600244301113,66,Healthy,Balanced Diet
+78,24.36531536566178,28,Healthy,Balanced Diet
+159,30.646497892855912,72,Diabetes,Diabetic Friendly (Low Sugar)
+122,27.578406464502194,28,Pre-Diabetic,Mediterranean Diet
+199,36.41224602970806,29,Diabetes,Diabetic Friendly (Low Sugar)
+153,31.467340790473624,71,Diabetes,Diabetic Friendly (Low Sugar)
+161,19.073360677035744,76,Diabetes,Diabetic Friendly (Low Sugar)
+180,16.764218685010746,72,Diabetes,Diabetic Friendly (Low Sugar)
+257,31.06048195515789,45,Diabetes,Diabetic Friendly (Low Sugar)
+268,15.662782763540545,60,Diabetes,Diabetic Friendly (Low Sugar)
+241,29.64438953183658,54,Diabetes,Diabetic Friendly (Low Sugar)
+77,38.50575603562394,71,Obesity,Low Carb / Keto
+244,29.386854446896976,44,Diabetes,Diabetic Friendly (Low Sugar)
+104,24.70424815516305,45,Healthy,Balanced Diet
+275,31.08220546105883,30,Diabetes,Diabetic Friendly (Low Sugar)
+150,26.456322262287916,57,Diabetes,Diabetic Friendly (Low Sugar)
+233,28.640419732898373,21,Diabetes,Diabetic Friendly (Low Sugar)
+119,38.53662021941313,26,Obesity,Low Carb / Keto
+173,24.652565945019354,37,Diabetes,Diabetic Friendly (Low Sugar)
+201,39.029764095597855,46,Diabetes,Diabetic Friendly (Low Sugar)
+71,37.63376604890159,53,Obesity,Low Carb / Keto
+203,19.89477836973241,46,Diabetes,Diabetic Friendly (Low Sugar)
+123,16.734032521879136,36,Healthy,Balanced Diet
+175,17.519450034435668,62,Diabetes,Diabetic Friendly (Low Sugar)
+73,15.455545641288744,78,Healthy,Balanced Diet
+123,17.36107401889821,63,Healthy,Balanced Diet
+290,32.07516933540892,78,Diabetes,Diabetic Friendly (Low Sugar)
+260,16.779716211505725,70,Diabetes,Diabetic Friendly (Low Sugar)
+215,22.974390757344032,73,Diabetes,Diabetic Friendly (Low Sugar)
+287,36.12188277423637,43,Diabetes,Diabetic Friendly (Low Sugar)
+113,15.581798393395646,44,Healthy,Balanced Diet
+231,35.36171206472339,26,Diabetes,Diabetic Friendly (Low Sugar)
+271,22.046369369334997,71,Diabetes,Diabetic Friendly (Low Sugar)
+259,17.954120690541405,25,Diabetes,Diabetic Friendly (Low Sugar)
+297,32.41842913410377,72,Diabetes,Diabetic Friendly (Low Sugar)
+83,30.7235711694971,43,Obesity,Low Carb / Keto
+164,36.936800338176326,52,Diabetes,Diabetic Friendly (Low Sugar)
+117,33.37677609509714,68,Obesity,Low Carb / Keto
+84,35.08702325962122,48,Obesity,Low Carb / Keto
+269,22.050864314282663,62,Diabetes,Diabetic Friendly (Low Sugar)
+275,19.43598859449307,41,Diabetes,Diabetic Friendly (Low Sugar)
+284,33.76536879102146,45,Diabetes,Diabetic Friendly (Low Sugar)
+259,35.1708684816816,47,Diabetes,Diabetic Friendly (Low Sugar)
+109,39.76262855001683,69,Obesity,Low Carb / Keto
+282,25.315441922785663,40,Diabetes,Diabetic Friendly (Low Sugar)
+277,24.30045214481958,68,Diabetes,Diabetic Friendly (Low Sugar)
+151,34.41032401854992,26,Diabetes,Diabetic Friendly (Low Sugar)
+180,23.520088506325447,36,Diabetes,Diabetic Friendly (Low Sugar)
+122,38.26893314008912,39,Obesity,Low Carb / Keto
+93,36.4603187960753,60,Obesity,Low Carb / Keto
+223,25.72485068437546,68,Diabetes,Diabetic Friendly (Low Sugar)
+286,33.771776694787434,39,Diabetes,Diabetic Friendly (Low Sugar)
+257,33.86357185211706,73,Diabetes,Diabetic Friendly (Low Sugar)
+193,17.578096720898316,41,Diabetes,Diabetic Friendly (Low Sugar)
+110,37.56382266698917,47,Obesity,Low Carb / Keto
+226,27.63130931119643,59,Diabetes,Diabetic Friendly (Low Sugar)
+84,35.66143665269354,68,Obesity,Low Carb / Keto
+114,23.00124002576529,26,Healthy,Balanced Diet
+134,37.388080712405014,20,Diabetes,Diabetic Friendly (Low Sugar)
+158,24.73004196835408,51,Diabetes,Diabetic Friendly (Low Sugar)
+140,15.270941287007458,32,Diabetes,Diabetic Friendly (Low Sugar)
+78,37.63454941048159,49,Obesity,Low Carb / Keto
+157,17.28216691965334,42,Diabetes,Diabetic Friendly (Low Sugar)
+198,22.982840939760372,70,Diabetes,Diabetic Friendly (Low Sugar)
+205,38.751549176270125,78,Diabetes,Diabetic Friendly (Low Sugar)
+285,38.7651786734389,75,Diabetes,Diabetic Friendly (Low Sugar)
+132,29.335947203082153,38,Diabetes,Diabetic Friendly (Low Sugar)
+208,30.795930304244983,51,Diabetes,Diabetic Friendly (Low Sugar)
+150,26.211138049457993,49,Diabetes,Diabetic Friendly (Low Sugar)
+205,22.330269292451614,48,Diabetes,Diabetic Friendly (Low Sugar)
+232,23.2166136342479,68,Diabetes,Diabetic Friendly (Low Sugar)
+232,31.81296140192596,64,Diabetes,Diabetic Friendly (Low Sugar)
+102,33.809363235942,48,Obesity,Low Carb / Keto
+192,34.78947609314621,49,Diabetes,Diabetic Friendly (Low Sugar)
+74,34.740453569863845,35,Obesity,Low Carb / Keto
+110,17.280152576217258,59,Healthy,Balanced Diet
+97,27.360507617564537,38,Healthy,Balanced Diet
+204,16.438969000416108,37,Diabetes,Diabetic Friendly (Low Sugar)
+270,28.73822205809339,20,Diabetes,Diabetic Friendly (Low Sugar)
+141,26.038262534334425,33,Diabetes,Diabetic Friendly (Low Sugar)
+81,37.19260456895749,70,Obesity,Low Carb / Keto
+231,23.77287531380197,66,Diabetes,Diabetic Friendly (Low Sugar)
+102,17.926675410690148,69,Healthy,Balanced Diet
+117,18.574792051320898,21,Healthy,Balanced Diet
+220,34.03776579293681,73,Diabetes,Diabetic Friendly (Low Sugar)
+131,30.455451582906527,47,Diabetes,Diabetic Friendly (Low Sugar)
+285,17.528066903069757,68,Diabetes,Diabetic Friendly (Low Sugar)
+106,17.102670152874936,69,Healthy,Balanced Diet
+168,32.524228286478,49,Diabetes,Diabetic Friendly (Low Sugar)
+241,16.819075159104838,57,Diabetes,Diabetic Friendly (Low Sugar)
+173,35.546501482258904,70,Diabetes,Diabetic Friendly (Low Sugar)
+283,32.65605567891241,23,Diabetes,Diabetic Friendly (Low Sugar)
+288,17.033719516047494,20,Diabetes,Diabetic Friendly (Low Sugar)
+104,17.120942852129797,27,Healthy,Balanced Diet
+262,39.66598946252938,48,Diabetes,Diabetic Friendly (Low Sugar)
+296,24.356769893903007,74,Diabetes,Diabetic Friendly (Low Sugar)
+170,24.26605367667227,58,Diabetes,Diabetic Friendly (Low Sugar)
+244,35.31998918143756,22,Diabetes,Diabetic Friendly (Low Sugar)
+275,38.68121443459647,51,Diabetes,Diabetic Friendly (Low Sugar)
+200,39.650026595571774,29,Diabetes,Diabetic Friendly (Low Sugar)
+70,33.83445463147354,29,Obesity,Low Carb / Keto
+74,24.406489638272895,38,Healthy,Balanced Diet
+287,17.08751791746672,65,Diabetes,Diabetic Friendly (Low Sugar)
+211,34.42867289818592,53,Diabetes,Diabetic Friendly (Low Sugar)
+172,28.960106243395124,79,Diabetes,Diabetic Friendly (Low Sugar)
+96,25.605550231174405,52,Healthy,Balanced Diet
+206,37.6588596273684,42,Diabetes,Diabetic Friendly (Low Sugar)
+276,17.779937057653783,74,Diabetes,Diabetic Friendly (Low Sugar)
+84,27.31562760727148,47,Healthy,Balanced Diet
+159,15.283841119185476,51,Diabetes,Diabetic Friendly (Low Sugar)
+111,26.716516049853155,69,Pre-Diabetic,Mediterranean Diet
+193,16.407581892045933,26,Diabetes,Diabetic Friendly (Low Sugar)
+274,17.9704479067018,48,Diabetes,Diabetic Friendly (Low Sugar)
+248,17.93815616942762,27,Diabetes,Diabetic Friendly (Low Sugar)
+132,31.230257552901588,20,Diabetes,Diabetic Friendly (Low Sugar)
+165,33.65112198163558,76,Diabetes,Diabetic Friendly (Low Sugar)
+121,29.58421912742899,74,Pre-Diabetic,Mediterranean Diet
+165,39.05431371186354,22,Diabetes,Diabetic Friendly (Low Sugar)
+201,24.3717644880926,43,Diabetes,Diabetic Friendly (Low Sugar)
+291,22.142802157046518,42,Diabetes,Diabetic Friendly (Low Sugar)
+298,36.71497820473651,78,Diabetes,Diabetic Friendly (Low Sugar)
+220,20.589895962986315,27,Diabetes,Diabetic Friendly (Low Sugar)
+212,39.08056348601528,73,Diabetes,Diabetic Friendly (Low Sugar)
+240,15.30386186724541,76,Diabetes,Diabetic Friendly (Low Sugar)
+98,39.246970667690974,66,Obesity,Low Carb / Keto
+105,16.0789977987644,56,Healthy,Balanced Diet
+82,37.27857784245178,22,Obesity,Low Carb / Keto
+229,28.192527727157497,70,Diabetes,Diabetic Friendly (Low Sugar)
+140,39.82411990298251,52,Diabetes,Diabetic Friendly (Low Sugar)
+256,16.84491411838497,47,Diabetes,Diabetic Friendly (Low Sugar)
+155,28.84635711003302,66,Diabetes,Diabetic Friendly (Low Sugar)
+97,39.23256339047747,27,Obesity,Low Carb / Keto
+135,28.07744610425372,53,Diabetes,Diabetic Friendly (Low Sugar)
+239,30.73496595338156,54,Diabetes,Diabetic Friendly (Low Sugar)
+114,32.39371722461543,51,Obesity,Low Carb / Keto
+131,26.36352661919433,43,Diabetes,Diabetic Friendly (Low Sugar)
+254,30.688952002101587,33,Diabetes,Diabetic Friendly (Low Sugar)
+203,29.607857798077504,51,Diabetes,Diabetic Friendly (Low Sugar)
+97,37.52895026227472,75,Obesity,Low Carb / Keto
+97,16.136159508536448,65,Healthy,Balanced Diet
+177,22.024079739805757,62,Diabetes,Diabetic Friendly (Low Sugar)
+113,38.76028710191397,35,Obesity,Low Carb / Keto
+153,37.25659459727291,23,Diabetes,Diabetic Friendly (Low Sugar)
+99,26.391418819642823,71,Healthy,Balanced Diet
+259,30.50331494503842,56,Diabetes,Diabetic Friendly (Low Sugar)
+144,21.934529574528316,73,Diabetes,Diabetic Friendly (Low Sugar)
+197,19.703028993094033,40,Diabetes,Diabetic Friendly (Low Sugar)
+161,26.592460123499556,33,Diabetes,Diabetic Friendly (Low Sugar)
+286,23.833805700651318,50,Diabetes,Diabetic Friendly (Low Sugar)
+259,29.5914027962718,74,Diabetes,Diabetic Friendly (Low Sugar)
+294,16.94336592412462,67,Diabetes,Diabetic Friendly (Low Sugar)
+198,39.35987019165417,37,Diabetes,Diabetic Friendly (Low Sugar)
+190,39.65526861199007,26,Diabetes,Diabetic Friendly (Low Sugar)
+96,32.45404285049363,29,Obesity,Low Carb / Keto
+259,28.40240915860301,26,Diabetes,Diabetic Friendly (Low Sugar)
+190,22.738190407158193,52,Diabetes,Diabetic Friendly (Low Sugar)
+185,35.344875492673715,42,Diabetes,Diabetic Friendly (Low Sugar)
+274,32.11827931384698,40,Diabetes,Diabetic Friendly (Low Sugar)
+72,19.065423483622283,38,Healthy,Balanced Diet
+172,37.77317961234606,67,Diabetes,Diabetic Friendly (Low Sugar)
+267,35.56343107307923,38,Diabetes,Diabetic Friendly (Low Sugar)
+269,38.7449978322981,55,Diabetes,Diabetic Friendly (Low Sugar)
+224,33.142987709709004,48,Diabetes,Diabetic Friendly (Low Sugar)
+206,30.33537989839475,79,Diabetes,Diabetic Friendly (Low Sugar)
+131,25.456075907265472,37,Diabetes,Diabetic Friendly (Low Sugar)
+234,38.31821208385033,21,Diabetes,Diabetic Friendly (Low Sugar)
+294,36.65159723751021,20,Diabetes,Diabetic Friendly (Low Sugar)
+120,16.130466752654733,66,Healthy,Balanced Diet
+241,15.6591743624313,24,Diabetes,Diabetic Friendly (Low Sugar)
+221,24.41158417195124,39,Diabetes,Diabetic Friendly (Low Sugar)
+276,35.26383326954583,30,Diabetes,Diabetic Friendly (Low Sugar)
+128,39.68190323287361,61,Diabetes,Diabetic Friendly (Low Sugar)
+187,18.760422277588205,21,Diabetes,Diabetic Friendly (Low Sugar)
+229,29.853267883803376,22,Diabetes,Diabetic Friendly (Low Sugar)
+165,24.52227141577554,42,Diabetes,Diabetic Friendly (Low Sugar)
+285,39.24785994536508,74,Diabetes,Diabetic Friendly (Low Sugar)
+249,36.05297307839272,31,Diabetes,Diabetic Friendly (Low Sugar)
+182,35.958217617778445,39,Diabetes,Diabetic Friendly (Low Sugar)
+131,26.717328994874258,24,Diabetes,Diabetic Friendly (Low Sugar)
+255,25.37048755844163,56,Diabetes,Diabetic Friendly (Low Sugar)
+121,21.835176798267657,57,Healthy,Balanced Diet
+81,16.409387416273177,49,Healthy,Balanced Diet
+108,36.61805940637633,28,Obesity,Low Carb / Keto
+199,35.32252522825194,53,Diabetes,Diabetic Friendly (Low Sugar)
+200,39.992941832153264,72,Diabetes,Diabetic Friendly (Low Sugar)
+182,39.91592092684763,63,Diabetes,Diabetic Friendly (Low Sugar)
+170,28.885792640065688,54,Diabetes,Diabetic Friendly (Low Sugar)
+182,34.22468537951276,71,Diabetes,Diabetic Friendly (Low Sugar)
+253,38.619143247060705,77,Diabetes,Diabetic Friendly (Low Sugar)
+150,36.24118476693529,41,Diabetes,Diabetic Friendly (Low Sugar)
+256,21.18370254357994,63,Diabetes,Diabetic Friendly (Low Sugar)
+182,26.263603382752336,43,Diabetes,Diabetic Friendly (Low Sugar)
+71,18.228985378787375,36,Healthy,Balanced Diet
+199,38.85127568146806,29,Diabetes,Diabetic Friendly (Low Sugar)
+289,30.154365861272,49,Diabetes,Diabetic Friendly (Low Sugar)
+123,20.71607013758657,75,Healthy,Balanced Diet
+156,31.792517110146417,78,Diabetes,Diabetic Friendly (Low Sugar)
+298,30.453206011447396,65,Diabetes,Diabetic Friendly (Low Sugar)
+293,23.954067950821013,42,Diabetes,Diabetic Friendly (Low Sugar)
+294,17.838939804990726,51,Diabetes,Diabetic Friendly (Low Sugar)
+198,31.78932988981999,36,Diabetes,Diabetic Friendly (Low Sugar)
+216,28.00769252259483,69,Diabetes,Diabetic Friendly (Low Sugar)
+195,34.30795979339098,70,Diabetes,Diabetic Friendly (Low Sugar)
+199,28.004087527799832,36,Diabetes,Diabetic Friendly (Low Sugar)
+122,36.3045375079635,33,Obesity,Low Carb / Keto
+241,28.797670969362137,28,Diabetes,Diabetic Friendly (Low Sugar)
+287,29.023449288384654,59,Diabetes,Diabetic Friendly (Low Sugar)
+229,36.91634006645863,21,Diabetes,Diabetic Friendly (Low Sugar)
+267,25.087071655309927,64,Diabetes,Diabetic Friendly (Low Sugar)
+229,18.35038071126602,44,Diabetes,Diabetic Friendly (Low Sugar)
+137,15.719566907833475,58,Diabetes,Diabetic Friendly (Low Sugar)
+252,33.87843139184048,28,Diabetes,Diabetic Friendly (Low Sugar)
+272,30.507738783836615,73,Diabetes,Diabetic Friendly (Low Sugar)
+253,32.60199420248059,41,Diabetes,Diabetic Friendly (Low Sugar)
+192,20.32410403772277,62,Diabetes,Diabetic Friendly (Low Sugar)
+214,18.409286889669243,65,Diabetes,Diabetic Friendly (Low Sugar)
+107,15.363616641697048,23,Healthy,Balanced Diet
+93,23.764688970164926,45,Healthy,Balanced Diet
+138,29.74794217136583,77,Diabetes,Diabetic Friendly (Low Sugar)
+185,24.806101127493307,48,Diabetes,Diabetic Friendly (Low Sugar)
+167,25.936873050593228,64,Diabetes,Diabetic Friendly (Low Sugar)
+267,37.60396736234371,53,Diabetes,Diabetic Friendly (Low Sugar)
+283,23.706386675582507,42,Diabetes,Diabetic Friendly (Low Sugar)
+208,27.84973722899527,56,Diabetes,Diabetic Friendly (Low Sugar)
+213,34.591325318528575,30,Diabetes,Diabetic Friendly (Low Sugar)
+166,24.913569558031753,25,Diabetes,Diabetic Friendly (Low Sugar)
+270,30.552167505696836,37,Diabetes,Diabetic Friendly (Low Sugar)
+193,36.55909271866863,40,Diabetes,Diabetic Friendly (Low Sugar)
+256,38.738015591441055,61,Diabetes,Diabetic Friendly (Low Sugar)
+139,18.67683702322595,55,Diabetes,Diabetic Friendly (Low Sugar)
+277,38.16469062903736,60,Diabetes,Diabetic Friendly (Low Sugar)
+162,27.302907326988453,57,Diabetes,Diabetic Friendly (Low Sugar)
+72,21.45610970747396,53,Healthy,Balanced Diet
+217,26.478393905956533,36,Diabetes,Diabetic Friendly (Low Sugar)
+256,39.50081438213692,56,Diabetes,Diabetic Friendly (Low Sugar)
+233,27.31545234982174,44,Diabetes,Diabetic Friendly (Low Sugar)
+216,23.218790257187706,57,Diabetes,Diabetic Friendly (Low Sugar)
+159,30.835021357918144,77,Diabetes,Diabetic Friendly (Low Sugar)
+264,21.003640469454826,31,Diabetes,Diabetic Friendly (Low Sugar)
+216,16.8965832027166,42,Diabetes,Diabetic Friendly (Low Sugar)
+217,18.22199304776623,72,Diabetes,Diabetic Friendly (Low Sugar)
+165,18.20114597394431,61,Diabetes,Diabetic Friendly (Low Sugar)
+268,18.797567337807358,41,Diabetes,Diabetic Friendly (Low Sugar)
+121,18.470679316235255,40,Healthy,Balanced Diet
+230,31.021868620080365,46,Diabetes,Diabetic Friendly (Low Sugar)
+237,19.54700210997862,76,Diabetes,Diabetic Friendly (Low Sugar)
+197,23.64168208309658,50,Diabetes,Diabetic Friendly (Low Sugar)
+108,37.4197102476503,25,Obesity,Low Carb / Keto
+151,26.84904100657181,46,Diabetes,Diabetic Friendly (Low Sugar)
+173,31.68894346302568,59,Diabetes,Diabetic Friendly (Low Sugar)
+198,19.307996780040746,53,Diabetes,Diabetic Friendly (Low Sugar)
+80,19.80722547021677,31,Healthy,Balanced Diet
+289,16.021715406661972,64,Diabetes,Diabetic Friendly (Low Sugar)
+254,19.223376576804114,76,Diabetes,Diabetic Friendly (Low Sugar)
+286,21.964758475798966,72,Diabetes,Diabetic Friendly (Low Sugar)
+247,19.42526210691867,26,Diabetes,Diabetic Friendly (Low Sugar)
+220,17.21756334392639,29,Diabetes,Diabetic Friendly (Low Sugar)
+228,18.01589677751502,64,Diabetes,Diabetic Friendly (Low Sugar)
+291,26.519469200818143,36,Diabetes,Diabetic Friendly (Low Sugar)
+111,20.158342960144815,45,Healthy,Balanced Diet
+168,24.10674652620189,40,Diabetes,Diabetic Friendly (Low Sugar)
+76,27.58543177137142,47,Healthy,Balanced Diet
+213,32.25987071573413,77,Diabetes,Diabetic Friendly (Low Sugar)
+159,15.982803496027474,65,Diabetes,Diabetic Friendly (Low Sugar)
+181,34.98525997272607,21,Diabetes,Diabetic Friendly (Low Sugar)
+129,30.697509737272696,79,Diabetes,Diabetic Friendly (Low Sugar)
+182,17.043975798721796,73,Diabetes,Diabetic Friendly (Low Sugar)
+71,36.839465602669435,62,Obesity,Low Carb / Keto
+198,38.02181001329533,20,Diabetes,Diabetic Friendly (Low Sugar)
+117,16.526948996371594,70,Healthy,Balanced Diet
+209,21.921941203680092,72,Diabetes,Diabetic Friendly (Low Sugar)
+266,35.15503199482653,55,Diabetes,Diabetic Friendly (Low Sugar)
+106,33.70649225959146,70,Obesity,Low Carb / Keto
+229,19.613025483909432,45,Diabetes,Diabetic Friendly (Low Sugar)
+78,20.233733083417757,48,Healthy,Balanced Diet
+168,24.26180256978455,40,Diabetes,Diabetic Friendly (Low Sugar)
+216,27.113074629775532,30,Diabetes,Diabetic Friendly (Low Sugar)
+117,30.4563692882574,59,Obesity,Low Carb / Keto
+277,24.22284098924431,30,Diabetes,Diabetic Friendly (Low Sugar)
+200,26.563367903328697,55,Diabetes,Diabetic Friendly (Low Sugar)
+217,33.68677345334392,68,Diabetes,Diabetic Friendly (Low Sugar)
+221,15.917080072264948,78,Diabetes,Diabetic Friendly (Low Sugar)
+123,21.31092360860052,58,Healthy,Balanced Diet
+189,32.83373964711381,59,Diabetes,Diabetic Friendly (Low Sugar)
+230,37.38017094217999,54,Diabetes,Diabetic Friendly (Low Sugar)
+221,27.791936052891653,73,Diabetes,Diabetic Friendly (Low Sugar)
+185,28.30283713163289,53,Diabetes,Diabetic Friendly (Low Sugar)
+144,17.679300283494403,74,Diabetes,Diabetic Friendly (Low Sugar)
+182,26.185309170586365,66,Diabetes,Diabetic Friendly (Low Sugar)
+269,28.315431661375577,43,Diabetes,Diabetic Friendly (Low Sugar)
+233,21.06176259086824,73,Diabetes,Diabetic Friendly (Low Sugar)
+235,21.731080773734526,41,Diabetes,Diabetic Friendly (Low Sugar)
+173,24.432104077615566,24,Diabetes,Diabetic Friendly (Low Sugar)
+153,15.50177994444316,75,Diabetes,Diabetic Friendly (Low Sugar)
+296,23.05197913957946,52,Diabetes,Diabetic Friendly (Low Sugar)
+181,20.286200174913617,77,Diabetes,Diabetic Friendly (Low Sugar)
+286,23.187433804447867,55,Diabetes,Diabetic Friendly (Low Sugar)
+168,17.99405329548128,66,Diabetes,Diabetic Friendly (Low Sugar)
+222,37.263182018497375,39,Diabetes,Diabetic Friendly (Low Sugar)
+162,29.839811338851217,38,Diabetes,Diabetic Friendly (Low Sugar)
+215,31.97755797861224,54,Diabetes,Diabetic Friendly (Low Sugar)
+197,34.729280965183456,71,Diabetes,Diabetic Friendly (Low Sugar)
+179,27.46105497322643,62,Diabetes,Diabetic Friendly (Low Sugar)
+151,17.17300720218559,36,Diabetes,Diabetic Friendly (Low Sugar)
+263,28.427663545463695,78,Diabetes,Diabetic Friendly (Low Sugar)
+123,29.671027950521978,64,Pre-Diabetic,Mediterranean Diet
+232,33.63598685460825,62,Diabetes,Diabetic Friendly (Low Sugar)
+277,25.791488655741986,53,Diabetes,Diabetic Friendly (Low Sugar)
+258,18.189507569889095,28,Diabetes,Diabetic Friendly (Low Sugar)
+238,22.09439764496811,45,Diabetes,Diabetic Friendly (Low Sugar)
+297,24.077057409965878,21,Diabetes,Diabetic Friendly (Low Sugar)
+230,31.147931033290032,72,Diabetes,Diabetic Friendly (Low Sugar)
+137,29.269457616722796,28,Diabetes,Diabetic Friendly (Low Sugar)
+102,23.902418147446156,28,Healthy,Balanced Diet
+211,39.66288121982449,59,Diabetes,Diabetic Friendly (Low Sugar)
+90,30.14437048392218,36,Obesity,Low Carb / Keto
+117,20.93066979339986,20,Healthy,Balanced Diet
+217,17.544561815510093,44,Diabetes,Diabetic Friendly (Low Sugar)
+197,18.821478479608302,62,Diabetes,Diabetic Friendly (Low Sugar)
+205,21.148943209612703,59,Diabetes,Diabetic Friendly (Low Sugar)
+204,19.017034331488894,61,Diabetes,Diabetic Friendly (Low Sugar)
+264,19.664175601282643,44,Diabetes,Diabetic Friendly (Low Sugar)
+214,22.127379217346178,58,Diabetes,Diabetic Friendly (Low Sugar)
+197,19.33433988236887,54,Diabetes,Diabetic Friendly (Low Sugar)
+102,37.41913561566063,22,Obesity,Low Carb / Keto
+245,17.005843641541055,69,Diabetes,Diabetic Friendly (Low Sugar)
+273,28.112784739256366,56,Diabetes,Diabetic Friendly (Low Sugar)
+256,25.259920674741537,63,Diabetes,Diabetic Friendly (Low Sugar)
+184,39.559465422715164,63,Diabetes,Diabetic Friendly (Low Sugar)
+283,17.80097255420131,70,Diabetes,Diabetic Friendly (Low Sugar)
+188,24.946389976143543,49,Diabetes,Diabetic Friendly (Low Sugar)
+91,39.236760831884226,57,Obesity,Low Carb / Keto
+227,36.637678147349504,53,Diabetes,Diabetic Friendly (Low Sugar)
+107,35.426801773731995,31,Obesity,Low Carb / Keto
+299,21.447570676123497,38,Diabetes,Diabetic Friendly (Low Sugar)
+178,19.272189684751645,56,Diabetes,Diabetic Friendly (Low Sugar)
+120,31.716080498110774,63,Obesity,Low Carb / Keto
+251,38.23439972818964,78,Diabetes,Diabetic Friendly (Low Sugar)
+77,28.919072325348246,78,Healthy,Balanced Diet
+96,29.290317236747498,68,Healthy,Balanced Diet
+96,21.999477341507102,36,Healthy,Balanced Diet
+295,34.23732332979842,29,Diabetes,Diabetic Friendly (Low Sugar)
+90,19.676093713938084,76,Healthy,Balanced Diet
+99,23.09198091010609,74,Healthy,Balanced Diet
+166,25.635910965410417,68,Diabetes,Diabetic Friendly (Low Sugar)
+97,27.690259467111375,66,Healthy,Balanced Diet
+180,21.060243310377004,31,Diabetes,Diabetic Friendly (Low Sugar)
+261,17.87092061848009,35,Diabetes,Diabetic Friendly (Low Sugar)
+294,30.265501061040816,43,Diabetes,Diabetic Friendly (Low Sugar)
+266,22.215763831006395,38,Diabetes,Diabetic Friendly (Low Sugar)
+130,29.530955535565305,27,Diabetes,Diabetic Friendly (Low Sugar)
+117,18.859067881855058,50,Healthy,Balanced Diet
+216,27.028502546370436,40,Diabetes,Diabetic Friendly (Low Sugar)
+73,28.314735813789646,36,Healthy,Balanced Diet
+104,16.295588420560673,42,Healthy,Balanced Diet
+261,23.415106954848014,56,Diabetes,Diabetic Friendly (Low Sugar)
+118,18.360366923474356,73,Healthy,Balanced Diet
+86,16.584374261819192,35,Healthy,Balanced Diet
+241,39.74900580974863,25,Diabetes,Diabetic Friendly (Low Sugar)
+289,23.058846124368074,27,Diabetes,Diabetic Friendly (Low Sugar)
+227,35.24686114636587,44,Diabetes,Diabetic Friendly (Low Sugar)
+290,21.366016369094098,37,Diabetes,Diabetic Friendly (Low Sugar)
+115,32.03756805559823,44,Obesity,Low Carb / Keto
+186,34.00569649724216,31,Diabetes,Diabetic Friendly (Low Sugar)
+75,29.890968515196107,34,Healthy,Balanced Diet
+168,26.78940471375396,78,Diabetes,Diabetic Friendly (Low Sugar)
+193,25.296022853681713,45,Diabetes,Diabetic Friendly (Low Sugar)
+106,23.721706663574885,60,Healthy,Balanced Diet
+93,38.23822860619565,64,Obesity,Low Carb / Keto
+162,35.76548519469323,45,Diabetes,Diabetic Friendly (Low Sugar)
+115,39.12567276666282,66,Obesity,Low Carb / Keto
+250,18.10743058713862,51,Diabetes,Diabetic Friendly (Low Sugar)
+164,33.27168688009111,29,Diabetes,Diabetic Friendly (Low Sugar)
+168,38.458511420525944,35,Diabetes,Diabetic Friendly (Low Sugar)
+257,19.530826654141503,26,Diabetes,Diabetic Friendly (Low Sugar)
+294,16.662406684169436,36,Diabetes,Diabetic Friendly (Low Sugar)
+185,33.528016232251474,42,Diabetes,Diabetic Friendly (Low Sugar)
+260,29.3618278294978,45,Diabetes,Diabetic Friendly (Low Sugar)
+282,36.0457194189568,40,Diabetes,Diabetic Friendly (Low Sugar)
+229,18.494309415657238,41,Diabetes,Diabetic Friendly (Low Sugar)
+284,34.88168279649726,77,Diabetes,Diabetic Friendly (Low Sugar)
+230,20.040683001193614,26,Diabetes,Diabetic Friendly (Low Sugar)
+136,19.091398571642614,33,Diabetes,Diabetic Friendly (Low Sugar)
+197,19.106644948274823,34,Diabetes,Diabetic Friendly (Low Sugar)
+87,35.364368005784556,72,Obesity,Low Carb / Keto
+94,31.629930517405004,26,Obesity,Low Carb / Keto
+292,28.076635619227982,28,Diabetes,Diabetic Friendly (Low Sugar)
+123,23.970762103087562,70,Healthy,Balanced Diet
+127,36.930013520327705,67,Diabetes,Diabetic Friendly (Low Sugar)
+136,24.811127685565886,27,Diabetes,Diabetic Friendly (Low Sugar)
+173,35.41498598678943,69,Diabetes,Diabetic Friendly (Low Sugar)
+243,25.97837271425546,78,Diabetes,Diabetic Friendly (Low Sugar)
+93,24.423610735622688,42,Healthy,Balanced Diet
+183,26.56699464174016,48,Diabetes,Diabetic Friendly (Low Sugar)
+101,22.534446854103553,37,Healthy,Balanced Diet
+244,33.69023450440628,50,Diabetes,Diabetic Friendly (Low Sugar)
+155,27.56800975231198,49,Diabetes,Diabetic Friendly (Low Sugar)
+220,20.80531737867043,71,Diabetes,Diabetic Friendly (Low Sugar)
+263,37.48936433186421,58,Diabetes,Diabetic Friendly (Low Sugar)
+196,24.597280534330284,54,Diabetes,Diabetic Friendly (Low Sugar)
+224,28.588821527849717,37,Diabetes,Diabetic Friendly (Low Sugar)
+199,37.661802774113674,78,Diabetes,Diabetic Friendly (Low Sugar)
+287,30.605949897849804,61,Diabetes,Diabetic Friendly (Low Sugar)
+86,17.9224510177091,58,Healthy,Balanced Diet
+173,38.49580309033688,36,Diabetes,Diabetic Friendly (Low Sugar)
+230,30.692701326785446,33,Diabetes,Diabetic Friendly (Low Sugar)
+206,23.372640366427152,50,Diabetes,Diabetic Friendly (Low Sugar)
+112,18.48180181658468,43,Healthy,Balanced Diet
+245,34.8506297317574,54,Diabetes,Diabetic Friendly (Low Sugar)
+108,30.50181889821284,63,Obesity,Low Carb / Keto
+290,28.33652729940804,79,Diabetes,Diabetic Friendly (Low Sugar)
+239,37.347314576273945,64,Diabetes,Diabetic Friendly (Low Sugar)
+95,34.714930280613274,53,Obesity,Low Carb / Keto
+168,18.79187199331878,22,Diabetes,Diabetic Friendly (Low Sugar)
+119,22.793051694888707,56,Healthy,Balanced Diet
+222,21.212228495361643,62,Diabetes,Diabetic Friendly (Low Sugar)
+221,33.598657314316924,59,Diabetes,Diabetic Friendly (Low Sugar)
+82,15.838310868394485,45,Healthy,Balanced Diet
+129,29.24724212178291,74,Diabetes,Diabetic Friendly (Low Sugar)
+204,34.06146714351726,42,Diabetes,Diabetic Friendly (Low Sugar)
+126,36.91914091904374,63,Obesity,Low Carb / Keto
+105,23.55204371789769,58,Healthy,Balanced Diet
+242,35.531432616800316,34,Diabetes,Diabetic Friendly (Low Sugar)
+89,17.76579342388018,75,Healthy,Balanced Diet
+134,36.16130729336295,68,Diabetes,Diabetic Friendly (Low Sugar)
+77,18.18721655829956,23,Healthy,Balanced Diet
+213,24.93218226400918,48,Diabetes,Diabetic Friendly (Low Sugar)
+211,34.932384144488836,41,Diabetes,Diabetic Friendly (Low Sugar)
+273,18.747935683719344,44,Diabetes,Diabetic Friendly (Low Sugar)
+184,20.731284880816037,32,Diabetes,Diabetic Friendly (Low Sugar)
+284,33.05631420982665,37,Diabetes,Diabetic Friendly (Low Sugar)
+212,33.00091341365186,52,Diabetes,Diabetic Friendly (Low Sugar)
+161,31.028690822132432,35,Diabetes,Diabetic Friendly (Low Sugar)
+167,32.3487111116775,64,Diabetes,Diabetic Friendly (Low Sugar)
+135,28.568111083689907,61,Diabetes,Diabetic Friendly (Low Sugar)
+101,21.294976472673817,63,Healthy,Balanced Diet
+284,23.642399837597985,21,Diabetes,Diabetic Friendly (Low Sugar)
+260,19.539942920035642,74,Diabetes,Diabetic Friendly (Low Sugar)
